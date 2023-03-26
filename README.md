@@ -1,6 +1,6 @@
 # EXPERIMENTAL/ALPHA/UNSUPPORTED prometheus-weathergoose-exporter
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![Docker Pulls](https://img.shields.io/docker/pulls/jantman/prometheus-security-spy-exporter)](https://hub.docker.com/repository/docker/jantman/prometheus-security-spy-exporter) [![GitHub last commit](https://img.shields.io/github/last-commit/jantman/prometheus-security-spy-exporter)](https://github.com/jantman/prometheus-security-spy-exporter)
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![Docker Pulls](https://img.shields.io/docker/pulls/jantman/prometheus-weathergoose-exporter)](https://hub.docker.com/repository/docker/jantman/prometheus-weathergoose-exporter) [![GitHub last commit](https://img.shields.io/github/last-commit/jantman/prometheus-weathergoose-exporter)](https://github.com/jantman/prometheus-weathergoose-exporter)
 
 Prometheus exporter for the IT Watchdogs WeatherGoose 1 (WxGoos-1)
 
